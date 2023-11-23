@@ -39,6 +39,7 @@ http://localhost:8090/challenge/api
 ```
 http://localhost:8090/challenge/api/client?identification&type_doc
 ```
+![img.png](swagger_html.png)
 
 ### Documentación Swagger json
 
@@ -51,6 +52,8 @@ http://localhost:8090/challenge/api/api-docs
 ```
 http://localhost:8090/challenge/api/h2-console
 ```
+![img.png](db.png)
+
 
 ## Endpoints
 
