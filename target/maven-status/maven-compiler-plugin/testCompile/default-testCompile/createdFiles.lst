@@ -1,3 +1,5 @@
-com/challenge/talycap/business/service/impl/ClientServiceImplTest.class
-com/challenge/talycap/ChallengeTalycapApplicationTests.class
+com/challenge/talycap/api/controller/HelloControllerTest.class
 com/challenge/talycap/api/controller/ClientControllerTest.class
+com/challenge/talycap/business/service/impl/ClientServiceImplTest.class
+com/challenge/talycap/api/controller/NumberControllerTest.class
+com/challenge/talycap/business/service/impl/NumberServiceImplTest.class
